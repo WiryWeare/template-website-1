@@ -3,6 +3,6 @@
 /*this is how you set the background color of a webpage*/
 body {background-color: coral;}
 /*this is how you center text*/
-div.a {
+.centered {
     text-align: center;
   }
